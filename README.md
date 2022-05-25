@@ -1,2 +1,2 @@
 # Interview-Preparation-Problems
-HackerRank interview preparation kit solutions
+HackerRank Interview Preparation Kit and Meta Preparation Hub solutions
