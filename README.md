@@ -1,2 +1,2 @@
 # Interview-Preparation-Problems
-HackerRank Interview Preparation Kit and Meta Preparation Hub solutions
+"HackerRank Interview Preparation Kit", "Meta Preparation Hub" and "Google Tech Dev Guide" solutions
