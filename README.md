@@ -18,20 +18,20 @@ Meta problems:
 - Graphs: 1
 - Greedy algorithms: 1 
 - Hash tables: 1
-- Heaps: 1
+- Heaps: 2
 - Queues: 1
 - Recursion: 2
 - Search: 1
-- Sorting: 1
+- Sorting: 2
 - Stacks: 1
 - Strings: 2
 - Trees: 2
 
-Total: 16 questions
+Total: 17 questions
 
 Google problems:
 ---
 Total: 7 questions
 
 ---
-Total number of problems: 53
+Total number of problems: 55
