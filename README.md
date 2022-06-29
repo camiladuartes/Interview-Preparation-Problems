@@ -21,7 +21,7 @@ Meta problems:
 - Heaps: 2
 - Queues: 1
 - Recursion: 2
-- Search: 1
+- Search: 2
 - Sorting: 2
 - Stacks: 1
 - Strings: 2
@@ -34,4 +34,4 @@ Google problems:
 Total: 7 questions
 
 ---
-Total number of problems: 55
+Total number of problems: 56
