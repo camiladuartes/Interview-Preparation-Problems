@@ -24,14 +24,14 @@ Meta problems:
 - Search: 2
 - Sorting: 2
 - Stacks: 1
-- Strings: 2
+- Strings: 3
 - Trees: 2
 
-Total: 17 questions
+Total: 20 questions
 
 Google problems:
 ---
 Total: 7 questions
 
 ---
-Total number of problems: 56
+Total number of problems: 57
