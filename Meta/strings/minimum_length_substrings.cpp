@@ -35,11 +35,11 @@ int minLengthSubstring(string s, string t) {
       char lChar = s[left];
       sMap[lChar]--;
       if(tMap.find(lChar) != tMap.end()) {
-        if(tMap[c] > sMap[c]) {
+        if(tMap[lChar] > sMap[lChar]) {
           requiredSize--;
         }
       }
-      left--;
+      left++;
     }
     
     right++;
