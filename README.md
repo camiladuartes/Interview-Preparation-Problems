@@ -16,7 +16,7 @@ Meta problems:
 ---
 - Arrays: 2
 - Graphs: 1
-- Greedy algorithms: 2
+- Greedy algorithms: 3
 - Hash tables: 1
 - Heaps: 3
 - Queues: 1
@@ -27,11 +27,11 @@ Meta problems:
 - Strings: 3
 - Trees: 2
 
-Total: 22 questions
+Total: 23 questions
 
 Google problems:
 ---
 Total: 7 questions
 
 ---
-Total number of problems: 59
+Total number of problems: 60
