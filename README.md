@@ -27,7 +27,7 @@ Meta problems:
 - Strings: 3
 - Trees: 2
 
-Total: 20 questions
+Total: 22 questions
 
 Google problems:
 ---
